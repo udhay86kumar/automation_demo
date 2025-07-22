@@ -1,0 +1,15 @@
+[
+  {
+    "WorkspaceName": "Udhaya Automation",
+    "LessonName": "Automation demo l2",
+    "Lesson": [
+      {
+        "SlideNo": 0,
+        "Title": "Multichoice",
+        "ModuleName": "Multichoice",
+        "HtmlContent": "<h1>Multichoice<h1/>",
+        "Question" : "<h1> New Question </h1>"
+      }
+    ]
+  }
+]

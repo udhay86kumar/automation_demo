@@ -1,0 +1,29 @@
+[
+  {
+    "WorkspaceName": "Automation Test",
+    "LessonName": "Automation L2",
+    "Lesson": [
+      {
+        "SlideNo": 0,
+        "Title": "Introduction",
+        "ModuleName": "StudentInstruction",
+        "HtmlContent": "<h1>Introduction<h1/>"
+      },
+      {
+        "SlideNo": 1,
+        "Title": "Slide A",
+        "ModuleName": "ArticleQuestion",
+        "ImagesName": "B1_L6_SlideA",
+        "HtmlContent": "",
+        "subModules": [
+          {
+            "Title": "Slide A",
+            "ModuleName": "StudentInstruction",
+            "ImageName": "B1_L6_SlideA",
+            "Content": "<h1>Hello world A<h1/>"
+          }
+        ]
+      }
+    ]
+  }
+]
